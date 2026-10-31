@@ -46,9 +46,9 @@ flowchart LR
 | File | Contents |
 |---|---|
 | [`consultoria_estatística_grupo_5.py`](consultoria_estatística_grupo_5.py) | Python analysis (pandas, seaborn): cleaning, EDA and modeling |
-| `Sucateamento de Componentes Eletrônicos.pbip` / `.pbix` | Original Power BI report and data model |
-| `Consultoria Estatística - Grupo 5.pdf` | Final presentation delivered to the class and the client (Portuguese) |
 | [`docs/`](docs/) | Dashboard redesign images and HTML source |
+
+The client's maintenance data and the original Power BI file are confidential and not included, so the analysis script documents the method but won't run without the data.
 
 ## What I took from it
 
